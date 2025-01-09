@@ -1,0 +1,15 @@
+streamlit
+mediapipe
+torch
+torchvision
+torchaudio
+tqdm
+scikit-learn
+opencv-python
+numpy
+streamlit-lottie
+matplotlib
+seaborn
+requests
+scipy
+pandas
